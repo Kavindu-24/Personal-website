@@ -8,7 +8,7 @@ function App() {
         <div className="container">
           <div className="logo">
             <div className="logo-icon"></div>
-            <span className="logo-text">PORTFOLIO</span>
+            <span className="logo-text">my PORTFOLIO</span>
           </div>
           <nav className="nav">
             <a href="#home" className="nav-link active">
